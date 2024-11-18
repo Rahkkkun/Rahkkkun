@@ -2,7 +2,7 @@ Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animate
 
 I'm Rahul [aka Rahkkkun], a design engineer based in India.
 
-I am a Computer Science and Engineering (CSE) student pursuing my university B-Tech degree. I am passionate about development and design and blend technical skills with creativity. <br/> <br/>As an aspiring developer, I continuously work on projects that expand my technical expertise, from Java programming to graphic design. I strive to make a meaningful impact in the tech industry.
+I am a Computer Science and Engineering (CSE) student pursuing my B-Tech degree. I am passionate about development and design and blend technical skills with creativity. <br/> <br/>As an aspiring developer, I continuously work on projects that expand my technical expertise, from Java programming to graphic design. I strive to make a meaningful impact in the tech industry.
 
 Fun Facts:
 <ul>
