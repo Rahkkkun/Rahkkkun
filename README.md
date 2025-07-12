@@ -1,1 +1,1 @@
-![dark_mode-01](https://github.com/user-attachments/assets/c6e27d62-bfae-45fa-a195-79ce702683fa)
+![dark_mode-01](https://github.com/user-attachments/assets/55029b92-765e-4b7f-af65-8cdd69f5edad)
